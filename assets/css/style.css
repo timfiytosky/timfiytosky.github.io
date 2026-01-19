@@ -26,3 +26,7 @@ nav a {
 .bg_bluegreen {
   background-color: rgb(108, 230, 235);
 }
+
+a:hover {
+  text-decoration: underline;
+}
